@@ -1,0 +1,8 @@
+Films Options Menu
+
+Please choose one of the following options:
+1. Add a film
+2. Delete a film
+3. Update film info
+4. Show all records
+5. Exit the Menu
